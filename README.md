@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fusge
-- 👀 I’m interested in contributing to humanity
+- 👀 I’m interested in making useful software products
 - 🌱 I’m currently working on hard real-time software in science
 - 💞️ I’m looking to collaborate on interesting programming projects
 - 📫 How to reach me: valerioif@gmail.com
